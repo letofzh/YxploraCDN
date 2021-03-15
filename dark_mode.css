@@ -1,0 +1,174 @@
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #000000;
+    background: #000000;
+  }
+  .navbar {
+  border-bottom: 1px solid transparent;
+  font-family: "Open Sans",sans-serif;
+  margin-bottom: 30px;
+  min-height: 50px;
+  background: #000000;
+  }
+  h4 {
+    color: #7AAFC1;
+    background: #000000;
+  }
+  .btn
+  .btn-secondary
+  .dropdown-toggle {
+    color: #FFFFFF;
+    background: #000000;
+  }
+  a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+  }
+  .topic_unter {
+    color: #FFFFFF;
+    background: #000000;
+  }
+  .card-body {
+    color: #FFFFFF;
+    background: #000000;
+  }
+  .topic_content {
+    color: #FFFFFF;
+    background: #000000;
+  }
+  .text-muted {
+  color: #ffffff !important;
+  font-size: 10px;
+}
+  .d-block {
+    color: #FFFFFF;
+    background: #000000;
+  }
+  .card-title {
+    color: #7AAFC1;
+    background: #000000;
+  }
+  a {
+  color: #ffffff;
+  }
+  a:hover {
+  color: #7AAFC1;
+  }
+  .stadt_title {
+    color: #7AAFC1;
+    background: #000000;
+  }
+  .ende_header {
+    color: #7AAFC1;
+    background: #000000;
+  }
+  .topic_header {
+    color: #7AAFC1;
+    background: #000000;
+  }
+  .studie_title {
+    color: #7AAFC1;
+    background: #000000;
+  }
+  .btn-mobile:not(:disabled):not(.disabled).active, .btn-secondary:not(:disabled):not(.disabled):active, .show > .btn-secondary.dropdown-toggle {
+  color: #7AAFC1;
+  background-color: #000000;
+  border-color: #000000;
+  }
+  .btn-secondary {
+  color: #ffffff;
+  background-color: #7AAFC1;
+  border-color: #7AAFC1;
+  }
+  .btn-secondary:hover {
+  color: #7AAFC1;
+  background-color: #ffffff;
+  border-color: #7AAFC1;
+  }
+  .btn-anmelde {
+  color: #ffffff;
+  background-color: #7AAFC1;
+  border-color: #7AAFC1;
+  }
+  .btn-anmelde:hover {
+  color: #7AAFC1;
+  background-color: #ffffff;
+  border-color: #7AAFC1;
+  }
+  .btn-small {
+  color: #ffffff;
+  background-color: #7AAFC1;
+  border-color: #7AAFC1;
+  }
+  .btn-small:hover {
+  color: #7AAFC1;
+  background-color: #ffffff;
+  border-color: #7AAFC1;
+  }
+  .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+  color: #fff;
+  background-color: #7AAFC1;
+  border-color: #7AAFC1;
+}
+  .btn-mobile:hover {
+  color: #7AAFC1;
+  background-color: #ffffff;
+  border-color: #7AAFC1;
+  }
+  .btn-mobile {
+  color: #ffffff;
+  background-color: #7AAFC1;
+  border-color: #7AAFC1;
+  }
+  .dropdown-menu {
+  color: #7AAFC1;
+  background: #000000;
+  }
+  .dropdown-item {
+  background-color: black;
+  color: #7AAFC1;
+  }
+  dt {
+  color: #7AAFC1;
+  background: #000000;
+  }
+  hr {
+  height: 0;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  border-top: 1.5px solid #7AAFC1;
+  }
+  .card {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  margin-bottom: 20px;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 9px solid rgba(122, 175, 193, 1);
+  border-radius: 1.25rem;
+  }
+  .dropdown-item.active, .dropdown-item:active {
+  color: #000000;
+  text-decoration: none;
+  background-color: #7AAFC1;
+  }
+  .dropdown-item:focus, .dropdown-item:hover {
+  color: #7AAFC1;
+  text-decoration: none;
+  background-color: #f8f9fa;
+  font-weight: bold;
+  }
+}    
+
+@media (prefers-color-scheme: light) {
+  body {
+  color: #OOOOOO;
+  background: #FFFFFF;
+  }
+}
